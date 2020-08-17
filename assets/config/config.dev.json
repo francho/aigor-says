@@ -1,0 +1,17 @@
+{
+  "env": {
+    "name": "DEV"
+  },
+  "apiServers": [
+    {
+      "id": "localhost",
+      "name": "localhost",
+      "url": "http://localhost:5000"
+    },
+    {
+      "id": "abel",
+      "name": "Abel",
+      "url": "http://localhost:5000"
+    }
+  ]
+}
