@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aigor-says/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/aigor-says/static/js/main.cdb9515b.chunk.js",
-    "main.js.map": "/aigor-says/static/js/main.cdb9515b.chunk.js.map",
+    "main.js": "/aigor-says/static/js/main.011a69a9.chunk.js",
+    "main.js.map": "/aigor-says/static/js/main.011a69a9.chunk.js.map",
     "runtime-main.js": "/aigor-says/static/js/runtime-main.cae922c9.js",
     "runtime-main.js.map": "/aigor-says/static/js/runtime-main.cae922c9.js.map",
     "static/js/2.dc93fd70.chunk.js": "/aigor-says/static/js/2.dc93fd70.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cae922c9.js",
     "static/js/2.dc93fd70.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.cdb9515b.chunk.js"
+    "static/js/main.011a69a9.chunk.js"
   ]
 }
